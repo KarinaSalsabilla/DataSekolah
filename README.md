@@ -16,8 +16,8 @@
 
 <br>
 
-![Database](https://github.com/KarinaSalsabilla/DataSekolah/blob/c4ed4e9325d3476d9d8cdd5994c0ab89755fa26f/rancangandatabase.png?raw=true)
+![Data Agama](https://github.com/KarinaSalsabilla/DataSekolah/blob/e51047cb449a1b201378014dbd35ecdf718ba529/dataagama.png?raw=true)
 
 <br>
 
-![Data Agama](https://github.com/KarinaSalsabilla/DataSekolah/blob/e51047cb449a1b201378014dbd35ecdf718ba529/dataagama.png?raw=true)
+![Database](https://github.com/KarinaSalsabilla/DataSekolah/blob/c4ed4e9325d3476d9d8cdd5994c0ab89755fa26f/rancangandatabase.png?raw=true)
