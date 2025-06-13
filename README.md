@@ -20,6 +20,18 @@
 
 ---
 
+## 📊 Tampilan Dashboard & Data Siswa
+
+| Dashboard | Data Siswa | Data Jurusan |
+|-----------|------------|--------------|
+| ![Dashboard](https://raw.githubusercontent.com/KarinaSalsabilla/DataSekolah/master/tampilandatasiswa.png) | ![Data Siswa](https://raw.githubusercontent.com/KarinaSalsabilla/DataSekolah/master/tampilandatasiswatabel.png) | ![Data Jurusan](https://raw.githubusercontent.com/KarinaSalsabilla/DataSekolah/master/tampilandatajurusansiswa.png) |
+
+| Data Users | Data Agama |
+|--------------|-------------|
+| ![Jurusan](https://raw.githubusercontent.com/KarinaSalsabilla/DataSekolah/master/tampilandatagamasiswa.png) | ![Agama]
+
+---
+
 ## 🗂️ Struktur Database
 
 ![Struktur Database](https://github.com/KarinaSalsabilla/DataSekolah/blob/c4ed4e9325d3476d9d8cdd5994c0ab89755fa26f/rancangandatabase.png?raw=true)
