@@ -36,7 +36,7 @@
 
 | Hapus | Edit |
 |-------|------|
-| ![Hapus](https://raw.githubusercontent.com/KarinaSalsabilla/DataSekolah/master/tampilanhapus.png) | ![Edit](https://raw.githubusercontent.com/KarinaSalsabilla/DataSekolah/master/tampilanedit.png) |
+| ![Hapus](https://raw.githubusercontent.com/KarinaSalsabilla/DataSekolah/master/tampilanhapus.png) | ![Edit](https://github.com/KarinaSalsabilla/DataSekolah/blob/master/tampilanedit.png) |
 
 ---
 
