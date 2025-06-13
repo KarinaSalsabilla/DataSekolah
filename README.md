@@ -1,10 +1,12 @@
 # DataSekolah
 
-![Tampilan 1](https://github.com/KarinaSalsabilla/DataSekolah/blob/2e14708840dc20a03df94963f13dd10200c9bbe2/Screenshot_2-6-2025_212733_localhost.jpeg?raw=true)
+![Tampilan login](https://github.com/KarinaSalsabilla/DataSekolah/blob/2e14708840dc20a03df94963f13dd10200c9bbe2/halamanLogin.png?raw=true)
+(https://github.com/KarinaSalsabilla/DataSekolah/blob/2e14708840dc20a03df94963f13dd10200c9bbe2/tampialnusernamegagal.png.png?raw=true)
+(https://github.com/KarinaSalsabilla/DataSekolah/blob/2e14708840dc20a03df94963f13dd10200c9bbe2/tampilanpasswordsalah.png.png.png?raw=true)
 
 <br>
 
-![Tampilan 2](https://github.com/KarinaSalsabilla/DataSekolah/blob/4a2a397aed5024ef3a0b098dadc2046810576351/Screenshot_2-6-2025_212856_localhost.jpeg?raw=true)
+![Tampilan Dashboard Admin](https://github.com/KarinaSalsabilla/DataSekolah/blob/4a2a397aed5024ef3a0b098dadc2046810576351/Screenshot_2-6-2025_212856_localhost.jpeg?raw=true)
 
 <br>
 
