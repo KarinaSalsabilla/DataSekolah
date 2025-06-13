@@ -4,9 +4,7 @@
 
 | Halaman Login | Username Salah | Password Salah |
 |---------------|----------------|----------------|
-| ![Login](https://github.com/KarinaSalsabilla/DataSekolah/blob/master/halamanLogin.png?raw=true)
-.(https://github.com/KarinaSalsabilla/DataSekolah/blob/master/tampialnusernamegagal.png?raw=true) | ![Username Salah]
-.(https://github.com/KarinaSalsabilla/DataSekolah/blob/master/tampilanpasswordsalah.png?raw=true) | ![Password Salah]
+| ![Login](https://raw.githubusercontent.com/KarinaSalsabilla/DataSekolah/master/halamanLogin.png) | ![Username Salah](https://raw.githubusercontent.com/KarinaSalsabilla/DataSekolah/master/tampialnusernamegagal.png) | ![Password Salah](https://raw.githubusercontent.com/KarinaSalsabilla/DataSekolah/master/tampilanpasswordsalah.png) |
 
 ---
 
